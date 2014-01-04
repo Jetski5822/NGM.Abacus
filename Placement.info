@@ -1,0 +1,16 @@
+﻿<Placement>
+  <Place Parts_Abacus_User_Fields_FirstName="Content:1"
+         Parts_Abacus_User_Fields_LastName="Content:1"
+         Parts_Abacus_User_Fields_CompanyName="Content:1"
+         Parts_Abacus_User_Fields_EmailAddress="Content:1"
+         Parts_Abacus_User_Fields_PhoneMobile="Content:1"
+         Parts_Abacus_User_Fields_PhoneHome="Content:1"
+         Parts_Abacus_User_Fields_PhoneWork="Content:1"
+         Parts_Abacus_User_Fields_AddressLine1="Content:1"
+         Parts_Abacus_User_Fields_AddressLine2="Content:1"
+         Parts_Abacus_User_Fields_AddressLine3="Content:1"
+         Parts_Abacus_User_Fields_AddressLine4="Content:1"
+         Parts_Abacus_User_Fields_AddressLine5="Content:1"
+         Parts_Abacus_User_Fields_PostalCode="Content:1"
+         />
+</Placement>

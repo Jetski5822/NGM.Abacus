@@ -1,0 +1,12 @@
+﻿Name: Abacus CRM
+AntiForgery: enabled
+Author: Nicholas Mayne
+Website: https://github.com/Jetski5822/NGM.Abacus
+Version: 1.0.1
+OrchardVersion: 1.7.0
+Description: Base module to a CRM to which you can build lead generation on.
+Features:
+    NGM.Abacus:
+        Name: Abacus CRM
+        Category: CRM
+        Description: Introduces a CRM base to which you can build lead generation on.
